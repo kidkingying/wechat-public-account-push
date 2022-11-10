@@ -13,15 +13,15 @@ const USER_CONFIG = {
   // 使用微信测试号：公众号APP_SECRET
   APP_SECRET: 'da059a5344957346f8648f638ed11c53',
 
-  PROVINCE: '河南',
-  CITY: '焦作',
+  PROVINCE: '河北',
+  CITY: '保定',
 
   USERS: [
     {
       // 想要发送的人的名字
       name: '乖乖',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'oSpys6RDv7HEhvX4JZH2u6uPNtvw',
+      id: 'oSpys6Qw2_ggNDHQCDSYIseB2WQo',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: '	ThUbYSEPyXuDWsg8t-Mu5-d-SETCM251lgOwGTOdeD0',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
